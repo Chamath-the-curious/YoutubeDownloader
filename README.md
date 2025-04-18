@@ -29,7 +29,7 @@ This project was built using the following tools and technologies:
 ## Installation 
 
 1. Create a new folder on your computer
-2. Download Youtubedownloader.exe to that folder
+2. Download `Youtubedownloader.exe` to that folder
 
 ## Usage
 
@@ -70,5 +70,11 @@ pyinstaller --onefile --console --add-data "ffmpeg;ffmpeg" Youtubedownloader.py
 ```
 use : instead of ; if you are on linux
 
+## License
 
+Distributed under MIT license. See `LICENSE.txt` for more information.
+
+## Contact
+
+Chamath Sasmitha - [sasmithachamath@gmail.com](mailto:sasmithachamath@gmail.com)
 
