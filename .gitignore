@@ -1,0 +1,7 @@
+#dependecy
+ffmpeg/
+
+#build output
+build/
+dist/
+
