@@ -5,9 +5,7 @@ A standalone command-line utility for downloading YouTube videos (MP4) and audio
 
 There are a lot of websites/scripts to download YouTube videos or convert videos to MP3 files, but most of them don't work or are full of ads, making them unusable, so I created this as my first ever coding project.
 
-**Built with**
-
-This project was built using the following tools and technologies:
+**This project was built using the following tools and technologies:**
 
 - ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 - ![yt-dlp](https://img.shields.io/badge/yt--dlp-latest-yellow?logo=youtube&logoColor=white)
