@@ -29,7 +29,7 @@ This project was built using the following tools and technologies:
 ## Installation 
 
 1. Create a new folder on your computer
-2. Download `Youtubedownloader.exe` to that folder
+2. Download `Youtubedownloader.exe` from Releases to that folder 
 
 ## Usage
 
@@ -61,8 +61,15 @@ git clone https://github.com/Chamath-the-curious/YoutubeDownloader.git
 ```bash
 pip install yt-dlp
 ```
+ 3. Download and setup ffmpeg and ffprobe
 
-3. Build the EXE with bundled FFmpeg:
+ Download `ffprobe.exe` and `ffmpeg.exe` from releases. Copy these into a file named `ffmpeg` next to `Youtubedownloader.exe` (These two should be in same directory)
+
+ Run the python script
+
+ **or**
+
+ 4. Build the EXE with bundled FFmpeg:
 
 ```bash
 pip install pyinstaller
