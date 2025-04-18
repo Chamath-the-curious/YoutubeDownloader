@@ -47,7 +47,7 @@ Follow the interactive menu:
 
 All downloads appear in the folder the .exe file is in (or playlist subfolder for playlists).
 
-**If you want to run and edit Youtubedownloader.py**
+**If you want to run and edit `Youtubedownloader.py`**
 
  1. Clone the repo:
 
