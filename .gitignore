@@ -1,7 +1,9 @@
-#dependecy
+# dependency
 ffmpeg/
 
-#build output
+# build output
 build/
 dist/
 
+# PyInstaller build files
+*.spec
