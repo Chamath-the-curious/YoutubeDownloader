@@ -31,7 +31,7 @@ There are a lot of websites/scripts to download YouTube videos or convert videos
 
 ## Usage
 
-Run Youtubedownloader.exe
+Run `Youtubedownloader.exe`
 
 Follow the interactive menu:
 ```scss
