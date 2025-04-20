@@ -85,6 +85,11 @@ while True:
             'outtmpl': '%(title)s.%(ext)s',
             'merge_output_format': 'mp4',
             'ffmpeg_location': ffmpeg_path,  
+            'cookiesfrombrowser': ('chrome',)
+            'cookiesfrombrowser': ('firefox',)
+            'cookiesfrombrowser': ('chromium',)
+            'cookiesfrombrowser': ('opera',)
+            'cookiesfrombrowser': ('edge',)
         }
 
         try:
@@ -108,6 +113,11 @@ while True:
                 }
             ],
             'ffmpeg_location': ffmpeg_path
+            'cookiesfrombrowser': ('chrome',)
+            'cookiesfrombrowser': ('firefox',)
+            'cookiesfrombrowser': ('chromium',)
+            'cookiesfrombrowser': ('opera',)
+            'cookiesfrombrowser': ('edge',)
         }
         
         try:
@@ -126,6 +136,11 @@ while True:
             'outtmpl': '%(playlist_title)s/%(playlist_index)s - %(title)s.%(ext)s',
             'merge_output_format': 'mp4',
             'ffmpeg_location': ffmpeg_path
+            'cookiesfrombrowser': ('chrome',)
+            'cookiesfrombrowser': ('firefox',)
+            'cookiesfrombrowser': ('chromium',)
+            'cookiesfrombrowser': ('opera',)
+            'cookiesfrombrowser': ('edge',)
         }
 
         try:
@@ -150,6 +165,11 @@ while True:
                 }
             ],
             'ffmpeg_location': ffmpeg_path
+            'cookiesfrombrowser': ('chrome',)
+            'cookiesfrombrowser': ('firefox',)
+            'cookiesfrombrowser': ('chromium',)
+            'cookiesfrombrowser': ('opera',)
+            'cookiesfrombrowser': ('edge',)
         }
 
         try:
