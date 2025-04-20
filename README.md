@@ -75,6 +75,12 @@ pyinstaller --onefile --console --add-data "ffmpeg;ffmpeg" Youtubedownloader.py
 ```
 use : instead of ; if you are on linux
 
+## Known Errors
+
+- Sign in to confirm you are not a bot - if you are getting this error make sure are signed into youtube in your web browser.
+
+  Still getting this error? yt-dlp package need to collect cookies from your browser, most likely you are not using supported browser which are Chrome, Edge, Chromium, Opera or Firefox. 
+
 ## License
 
 Distributed under MIT license. See `LICENSE.txt` for more information.
