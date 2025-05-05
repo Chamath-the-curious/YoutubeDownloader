@@ -7,3 +7,11 @@ dist/
 
 # PyInstaller build files
 *.spec
+
+# Temporary & generated files (audio/video/cache/part)
+*.mp4
+*.mp3
+__pycache__/
+*.part
+
+
