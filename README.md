@@ -20,9 +20,9 @@ There are a lot of websites/scripts to download YouTube videos or convert videos
 
 * Download public playlists (MP4 or MP3) into organized folders
 
-* Bundled FFmpeg/ffprobe—no external dependencies
+* Bundled FFmpeg/ffprobe, no external dependencies
 
-* Single-file executable—no Python install required
+* Single-file executable,no Python install required
 
 ## Installation 
 
