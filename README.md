@@ -22,7 +22,7 @@ There are a lot of websites/scripts to download YouTube videos or convert videos
 
 * Bundled FFmpeg/ffprobe, no external dependencies
 
-* Single-file executable,no Python install required
+* Single-file executable, no Python install required
 
 ## Installation 
 
