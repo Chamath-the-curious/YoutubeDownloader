@@ -73,7 +73,7 @@ pip install yt-dlp
 pip install pyinstaller
 pyinstaller --onefile --console --add-data "ffmpeg;ffmpeg" Youtubedownloader.py
 ```
-use : instead of ; if you are on linux
+use : instead of ; if you are on linux.
 
 ## Known Errors
 
